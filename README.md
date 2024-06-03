@@ -1,5 +1,9 @@
 # Project Name
 Movies-App
+
+## Deployed link
+https://movies-app-sdes.onrender.com
+
 ## Overview
 
 The application have user authentication ( Sign In/ Sign Up )
