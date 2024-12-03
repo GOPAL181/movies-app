@@ -2,7 +2,7 @@
 Movies-App
 
 ## Deployed link
-https://movies-app-sdes.onrender.com
+https://movies-app-h0bg.onrender.com
 
 ## Overview
 
